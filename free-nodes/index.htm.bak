@@ -2,12 +2,10 @@
 <html class="no-js" lang="zh-CN">
 
 <head>
-        <link rel="canonical" href="https://clashv2rayu.github.io" />
+        <link rel="canonical" href="https://clashv2rayu.github.io/free-nodes/" />
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>ClashV2rayu | 免费公益V2ray/SSR/Clash节点订阅链接地址分享</title>
-        <meta name="keywords" content="ClashV2rayu节点分享,Clash,SSR,V2ray机场订阅" />
-        <meta name="description" content="ClashV2rayu每天会更新免费节点，包括Clash、SSR、V2ray等类型。它会提供详细的节点信息，如速度和覆盖地区等，还附有简明教程。ClashV2rayu可以满足用户各种需求，为用户提供稳定可靠的免费节点，帮助用户轻松实现科学上网。" />
+    <title>免费节点 - ClashV2rayu免费机场节点分享官网</title>
         <link rel="icon" href="/assets/website/img/clashv2rayu/favicon.ico" type="image/x-icon"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- All css here -->
@@ -45,18 +43,18 @@
      crossorigin="anonymous"></script>
 </head>
 
-<body data-page="index">
+<body data-page="category">
         <!-- preloader  -->
     <div id="preloader"></div>
     <!-- Start header -->
     <header class="header-one">
-        <div id="sticker" class="header-menu-area header-area ">
+        <div id="sticker" class="header-menu-area header-area header-area-4">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-4 d-flex align-items-center">
                         <div class="logo">
                             <a href="/">
-                                                                <h1>Clash V2ray</h1>
+                                                                <span>Clash V2ray</span>
                                                             </a>
                         </div>
                     </div>
@@ -83,68 +81,34 @@
     </header>
     <!-- End header area -->
     <main>
-        <!-- Start intro area -->
-        <div class="intro-area intro-home">
-            <div class="bg-wrapper">
-                <img src="/assets/website/img/clashv2rayu/background/bg1.png" alt="">
-            </div>
-            <div class="intro-content">
-                <div class="slider-content">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-6 col-lg-6 col-md-6">
-                                <div class="slide-all-text">
-                                    <!-- layer 2 -->
-                                    <div class="layer-2">
-                                        <h2 class="title-2">Clash/V2ray 免费节点每日更新</h2>
-                                    </div>
-                                    <!-- layer 1 -->
-                                    <div class="layer-1">
-                                        <h4 class="title-1">需要翻墙者自己将订阅链接导入到 Clash/V2ray 软件中使用，Windows、Mac、Android 的 Clash/V2ray 均为免费软件</h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6">
-                                <div class="slide-images-inner wow fadeInUp" data-wow-delay="0.5s">
-                                    <div class="slide-images">
-                                        <div class="slide-top-image">
-                                            <img class="top-img1 tilt-img" src="/assets/website/img/clashv2rayu/slider/slide-s1.jpg" alt="" data-tilt>
-                                            <img class="top-img2 tilt-img" src="/assets/website/img/clashv2rayu/slider/slide-s2.jpg" alt="">
-                                        </div>
-                                        <div class="slide-bot-image">
-                                            <img class="top-img3 tilt-img" src="/assets/website/img/clashv2rayu/slider/slide-s3.jpg" alt="" data-tilt>
-                                        </div>
-                                    </div>
-                                </div>
+        <!-- Start Breadcrumb Area -->
+        <div class="page-area bread-pd">
+            <div class="breadcumb-overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="breadcrumb-title text-center">
+                            <h1>免费节点</h1>
+                            <div class="bread-come">
+                                <nav aria-label="breadcrumb ">
+                                    <ol class="breadcrumb purple lighten-4 justify-content-center">
+                                        <li class="breadcrumb-items"><a class="black-text" href="/">首页</a><i class="ti-angle-right" aria-hidden="true"></i></li>
+                                        <li class="breadcrumb-items">免费节点</li>
+                                    </ol>
+                                </nav>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End Intro Area -->
+        <!-- End Breadcrumb Area -->
         <!-- Service area start -->
         <div class="service-area bg-color area-padding-2">
             <div class="container">
                 <div class="row">
                     <div class="col-md-9">
-                        <h2>最近更新文章</h2>
                         <div class="xcblog-blog-list">
-											
-						 <div class="row item xcblog-blog-item" data-date="2025-01-08">
-                                <div class="col-md-3">
-                                    <a href="/free-nodes/2025-1-8-free-high-speed-nodes.htm" class="xcblog-blog-url">
-                                        <img src="/uploads/20250105/photo_2022-10-22_08-11-59.jpg" class="img-fluid" alt="1月8日→19.9M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址">
-                                    </a>
-                                </div>
-                                <div class="col-md-9">
-                                    <a href="/free-nodes/2025-1-8-free-high-speed-nodes.htm" class="xcblog-blog-url">
-                                        <h3 class="xcblog-blog-title">1月8日→19.9M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址</h3>
-                                    </a>
-                                    <p>
-                                        这一次的节点更新覆盖了美国、香港、新加坡、韩国、日本、加拿大、欧洲等地区,最高速度可达19.9 M/S。只需复制下方的Clash/v2ray订阅链接,在客户端添加后即可正常使用。                                    </p>
-                                </div>
-                            </div>	
                                                        <div class="row item xcblog-blog-item" data-date="2025-01-07">
                                 <div class="col-md-3">
                                     <a href="/free-nodes/2025-1-7-free-high-speed-nodes.htm" class="xcblog-blog-url">
@@ -158,7 +122,7 @@
                                     <p>
                                         这一次的节点更新覆盖了美国、香港、新加坡、韩国、日本、加拿大、欧洲等地区,最高速度可达19.2 M/S。只需复制下方的Clash/v2ray订阅链接,在客户端添加后即可正常使用。                                    </p>
                                 </div>
-                            </div>			
+                            </div>						
                                                         <div class="row item xcblog-blog-item" data-date="2025-01-06">
                                 <div class="col-md-3">
                                     <a href="/free-nodes/2025-1-6-free-high-speed-nodes.htm" class="xcblog-blog-url">
@@ -187,6 +151,7 @@
                                         这一次的节点更新覆盖了欧洲、韩国、加拿大、香港、美国、新加坡、日本等地区,最高速度可达18.4 M/S。只需复制下方的Clash/v2ray订阅链接,在客户端添加后即可正常使用。                                    </p>
                                 </div>
                             </div>
+                            
                                                     </div>
                     </div>
                     <div class="col-md-3">
@@ -196,11 +161,11 @@
     </div>
     <div class="panel-body">
         <ul class="p-0 x-0" style="list-style: none;margin: 0;padding: 0;">
-                        <li class="py-2"><a href="/news/article-36332.htm" title="一个月小猫身上的跳蚤怎么彻底去除（一个月小猫身上的跳蚤怎么彻底去除呢）">一个月小猫身上的跳蚤怎么彻底去除（一个月小猫身上的跳蚤怎么彻底去除呢）</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-1-6-free-high-speed-nodes.htm" title="1月6日→19.7M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址">1月6日→19.7M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址</a></li>
-                        <li class="py-2"><a href="/news/article-36454.htm" title="宠物粮商标取名大全图片 宠物粮商标取名大全图片及名字">宠物粮商标取名大全图片 宠物粮商标取名大全图片及名字</a></li>
                         <li class="py-2"><a href="/news/article-36455.htm" title="合肥宠物狗领养 合肥宠物狗领养基地">合肥宠物狗领养 合肥宠物狗领养基地</a></li>
+                        <li class="py-2"><a href="/news/article-36454.htm" title="宠物粮商标取名大全图片 宠物粮商标取名大全图片及名字">宠物粮商标取名大全图片 宠物粮商标取名大全图片及名字</a></li>
+                        <li class="py-2"><a href="/news/article-36332.htm" title="一个月小猫身上的跳蚤怎么彻底去除（一个月小猫身上的跳蚤怎么彻底去除呢）">一个月小猫身上的跳蚤怎么彻底去除（一个月小猫身上的跳蚤怎么彻底去除呢）</a></li>
                         <li class="py-2"><a href="/free-nodes/2025-1-5-node-share.htm" title="1月5日→18.4M/S|2025年最新免费节点SSR/V2ray/Clash订阅链接地址">1月5日→18.4M/S|2025年最新免费节点SSR/V2ray/Clash订阅链接地址</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-1-6-free-high-speed-nodes.htm" title="1月6日→19.7M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址">1月6日→19.7M/S|2025年最新免费节点SSR/Shadowrocket/V2ray/Clash订阅链接地址</a></li>
                         <li class="py-2"><a href="/news/article-36333.htm" title="1970年10月8号是什么命（1970年10月8日）">1970年10月8号是什么命（1970年10月8日）</a></li>
                     </ul>
     </div>
