@@ -1,4 +1,4 @@
-# 1月13日→20.8M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-13 09:51:08
+# 1月17日→20.8M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-13 09:51:08
 
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2rayu.github.io" target="_blank">点击跳转</a>
@@ -23,27 +23,19 @@
 | [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
-## 订阅链接：
+## 订阅链接
 
-### Clash订阅链接
+### clash订阅链接
 
-- https://clashv2rayu.github.io/uploads/2025/01/0-20250113.yaml
-- https://clashv2rayu.github.io/uploads/2025/01/1-20250113.yaml
-- https://clashv2rayu.github.io/uploads/2025/01/2-20250113.yaml
-- https://clashv2rayu.github.io/uploads/2025/01/3-20250113.yaml
-- https://clashv2rayu.github.io/uploads/2025/01/4-20250113.yaml
+https://a.nodeshare.xyz/uploads/2025/1/20250117.yaml
 
-### V2ray订阅链接
+### v2ray订阅链接:
 
-- https://clashv2rayu.github.io/uploads/2025/01/0-20250113.txt
-- https://clashv2rayu.github.io/uploads/2025/01/1-20250113.txt
-- https://clashv2rayu.github.io/uploads/2025/01/2-20250113.txt
-- https://clashv2rayu.github.io/uploads/2025/01/3-20250113.txt
-- https://clashv2rayu.github.io/uploads/2025/01/4-20250113.txt
+https://a.nodeshare.xyz/uploads/2025/1/20250117.txt
 
-### Sing-box订阅链接
+### sing-box订阅链接
 
-- https://clashv2rayu.github.io/uploads/2025/01/20250113.json
+https://a.nodeshare.xyz/uploads/2025/01/20250117.json
 
 ## 更多clash节点订阅 ：
 
