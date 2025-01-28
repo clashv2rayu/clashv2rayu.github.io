@@ -1,4 +1,4 @@
-# 1月27日→20.2M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-27 09:51:08
+# 1月28日→20.2M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-01-28 09:51:08
 
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2rayu.github.io" target="_blank">点击跳转</a>
@@ -17,22 +17,22 @@
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
-| [星链云](https://starlinkcloud.cc/#/register?code=UTNDuia8) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
+| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 ## 订阅链接
 
 ### clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/1/20250127.yaml
+https://a.nodeshare.xyz/uploads/2025/1/20250128.yaml
 
 ### v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/1/20250127.txt
+https://a.nodeshare.xyz/uploads/2025/1/20250128.txt
 
 ### sing-box订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/01/20250127.json
+https://a.nodeshare.xyz/uploads/2025/01/20250128.json
 
 ## 更多clash节点订阅 ：
 
