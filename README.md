@@ -1,4 +1,4 @@
-# 4月17日→18.8M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-04-17 09:51:08
+# 4月18日→18.8M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-04-18 09:51:08
 
 
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashv2rayu.github.io" target="_blank">点击跳转</a>
@@ -7,7 +7,6 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
@@ -16,7 +15,6 @@
 | [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://goudan.site/#/register?code=LQzUg4EU) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
-| [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) | [点击进入](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
@@ -24,23 +22,20 @@
 
 ### clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/4/20250417.yaml
+https://a.nodeshare.xyz/uploads/2025/4/20250418.yaml
 
 ### v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/4/20250417.txt
+https://a.nodeshare.xyz/uploads/2025/4/20250418.txt
 
 ### sing-box订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/4/20250417.json
+https://a.nodeshare.xyz/uploads/2025/4/20250418.json
 
 ## 更多clash节点订阅 ：
 
 
-### 高速机场推荐1【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速Cloud</a>】
 
-无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://kkjiasu.top/#/register?code=lhGhQflc" target="_blank">KK加速Cloud（点击注册）</a>】
 
 ### 高速机场推荐2【<a href="VImhttps://www.fastconnectcloud.net/register?aff=lhGhQflc" target="_blank">KK加速</a>】
 
