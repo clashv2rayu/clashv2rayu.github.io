@@ -18,8 +18,8 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | :------- | :--- | :--- | :--------- | :-------- |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 |  |
 | [冰灵加速](#ef) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9 元 129G/月 |  |
-| [西游云](#ef) | [点击进入](https://goudan.site/#/register?code=LQzUg4EU) |  | 9 元 120G/月 |  |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
+| [西游云](#ef) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9 元 120G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d)| 3G | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 |  |
@@ -48,9 +48,9 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -83,11 +83,11 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 ##  高速机场推荐2
 
-[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
+[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 西游云全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【西游云（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ##  高速机场推荐3
 
@@ -123,9 +123,9 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -161,19 +161,19 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 ## 高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 ##  高速机场推荐2
 
-[【西游云】](https://goudan.site/#/register?code=LQzUg4EU)
+[【西游云】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 西游云全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【西游云（点击注册）】](https://goudan.site/#/register?code=LQzUg4EU)
+注册地址：[【西游云（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ##  高速机场推荐3
 
