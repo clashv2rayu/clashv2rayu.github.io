@@ -7,7 +7,7 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :-- | :-- | :-- | :-- | :-- |
-| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 | ✔支持 |
+| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 200G/月 | ✔支持 |
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [星辰vpn](https://t.xcvpn.us/#/register?code=tLBWwhPs) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
@@ -26,7 +26,7 @@
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-10元 100G/月
+10元 200G/月
 
 试用:1天2G
 
@@ -41,15 +41,15 @@
 
 ### clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/6/20250618.yaml
+https://a.nodeshare.xyz/uploads/2025/6/20250619.yaml
 
 ### v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/6/20250618.txt
+https://a.nodeshare.xyz/uploads/2025/6/20250619.txt
 
 ### sing-box订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/6/20250618.json
+https://a.nodeshare.xyz/uploads/2025/6/20250619.json
 
 ## 更多clash节点订阅 ：
 
