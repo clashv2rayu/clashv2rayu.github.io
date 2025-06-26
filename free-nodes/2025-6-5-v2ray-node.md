@@ -21,7 +21,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | [西游云](#ef) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9 元 120G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d)| 3G | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
+| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 |  |
  |
 
@@ -91,13 +91,13 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 ##  高速机场推荐3
 
-[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
@@ -177,13 +177,13 @@ https://a.nodeshare.xyz/uploads/2025/6/20250605.json
 
 ##  高速机场推荐3
 
-[【快猫】](https://kuaimao.io/#/register?code=TTaIXhNs)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=TTaIXhNs)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=TTaIXhNs)
 
 ###  高速机场推荐4
 
