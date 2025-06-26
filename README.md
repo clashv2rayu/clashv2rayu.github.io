@@ -1,4 +1,4 @@
-# 6月25日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-06-25 09:51:08
+# 6月26日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-06-26 09:51:08
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -42,15 +42,15 @@
 
 ### clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/6/20250625.yaml
+https://a.nodeshare.xyz/uploads/2025/6/20250626.yaml
 
 ### v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/6/20250625.txt
+https://a.nodeshare.xyz/uploads/2025/6/20250626.txt
 
 ### sing-box订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/6/20250625.json
+https://a.nodeshare.xyz/uploads/2025/6/20250626.json
 
 ## 更多clash节点订阅 ：
 
@@ -67,7 +67,7 @@ https://a.nodeshare.xyz/uploads/2025/6/20250625.json
 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">冰灵加速器（点击注册）</a>】
 
-### 高速机场推荐3【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">西游云</a>】
+### 高速机场推荐3【<a href="https://155.248.222.101/#/register?code=2mVFWPT1" target="_blank">西游云</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">西游云（点击注册）</a>】
