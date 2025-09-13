@@ -1,4 +1,4 @@
-# 9月12日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-9-12 09:51:08
+# 9月13日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2025-9-13 09:51:08
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -16,7 +16,7 @@
 | [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9元 120G/月 |  |
+| [西瓜云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) | [点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) |  | 9元 120G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
@@ -42,15 +42,15 @@
 
 ### clash订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/9/20250912.yaml
+https://a.nodeshare.xyz/uploads/2025/9/20250913.yaml
 
 ### v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/9/20250912.txt
+https://a.nodeshare.xyz/uploads/2025/9/20250913.txt
 
 ### sing-box订阅链接
 
-https://a.nodeshare.xyz/uploads/2025/9/20250912.json
+https://a.nodeshare.xyz/uploads/2025/9/20250913.json
 
 ## 更多clash节点订阅 ：
 
@@ -67,10 +67,10 @@ https://a.nodeshare.xyz/uploads/2025/9/20250912.json
 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
 - 网站注册地址：【<a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">冰灵加速器（点击注册）</a>】
 
-### 高速机场推荐3【<a href="https://155.248.222.101/#/register?code=2mVFWPT1" target="_blank">西游云</a>】
+### 高速机场推荐3【<a href="www.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">西游云</a>】
 
 - 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">西游云（点击注册）</a>】
+- 网站注册地址：【<a href="https://www.xiyou666.xyz/?path=register&code=LSpR3sOK" target="_blank">西游云（点击注册）</a>】
 
 ### 高速机场推荐4【<a href="https://login.dg5.biz/#/register?code=O3l5SX1q" target="_blank">狗狗加速</a>】
 
