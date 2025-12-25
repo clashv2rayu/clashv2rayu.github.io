@@ -17,7 +17,7 @@
 | [加速啦](https://jiasu.la/?r=42350) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
 | [西瓜云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) | [点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) |  | 9元 120G/月 |  |
-| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
+| [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 | [火烧云](https://huoshaoyun.pro/#/register?code=BP3fNkQd) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
@@ -62,10 +62,10 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2025/12/20251225.json
 - 网站注册地址：【<a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄（点击注册）</a>】
 
 
-### 高速机场推荐2【<a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">冰灵加速器</a>】
+### 高速机场推荐2【<a href="https://c1.bingclub.xyz/#/register?code=3R5DYYrL" target="_blank">冰灵加速器</a>】
 
 无视高峰，全天4K秒开，机房遍布全球，IP多多益善，99%流媒体解锁，油管、葫芦、奈菲，小电影丝般顺滑！ IPLC、IEPL中转，点对点专线连接。高速冲浪，科学上网不二选择，现在注册即可免费试用！
-- 网站注册地址：【<a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">冰灵加速器（点击注册）</a>】
+- 网站注册地址：【<a href="https://c1.bingclub.xyz/#/register?code=3R5DYYrL" target="_blank">冰灵加速器（点击注册）</a>】
 
 ### 高速机场推荐3【<a href="www.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">西游云</a>】
 
