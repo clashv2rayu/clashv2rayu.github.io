@@ -1,4 +1,4 @@
-# 2月16日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2026-2-16 09:51:08
+# 2月17日→18.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2026-2-17 09:51:08
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -13,7 +13,7 @@
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d) |  | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [快猫](https://kuaimao.io/#/register?code=9xg6G0AV) | [点击进入](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |
-| [西瓜云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) | [点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) |  | 9元 120G/月 |  |
+| [西游云](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) | [点击进入](https://www.xiyou666.xyz/?path=register&code=LSpR3sOK) |  | 9元 120G/月 |  |
 | [冰灵加速](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) | [点击进入](https://c1.bingclub.xyz/#/register?code=3R5DYYrL) |  | 8.9元 129G/月 |  |
 * * *
 
@@ -36,15 +36,15 @@
 
 ### clash订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260216.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260217.yaml
 
 ### v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260216.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260217.txt
 
 ### sing-box订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260216.json
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260217.json
 
 ## 更多clash节点订阅 ：
 
