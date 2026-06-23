@@ -1,4 +1,4 @@
-# 6月22日→12.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2026-6-22 09:51:08
+# 6月23日→12.1M/S|2025年最新免费节点V2ray/Shadowrocket/SSR/Clash订阅链接地址  更新时间 2026-6-23 09:51:08
 
 ### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
@@ -35,15 +35,15 @@
 
 ### clash订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260622.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260623.yaml
 
 ### v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260622.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260623.txt
 
 ### sing-box订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260622.json
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/6/20260623.json
 
 ## 更多clash节点订阅 ：
 
