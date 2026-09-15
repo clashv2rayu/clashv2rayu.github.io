@@ -37,15 +37,15 @@
 
 ### clash订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260914.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260915.yaml
 
 ### v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260914.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260915.txt
 
 ### sing-box订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260914.json
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/9/20260915.json
 
 ## 更多clash节点订阅 ：
 
