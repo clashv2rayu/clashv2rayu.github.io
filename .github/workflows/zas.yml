@@ -19,9 +19,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: 执行脚本生成文章、分页及索引导航
+      - name: 创建构建脚本
         run: |
-          python - << 'EOF'
+          cat << 'EOF' > auto_build.py
           import os
           import glob
           import datetime
@@ -30,7 +30,7 @@ jobs:
 
           posts_dir = "free-nodes"
           if not os.path.exists(posts_dir):
-              print(f"Directory {posts_dir} not found.")
+              print(f"Error: Directory '{posts_dir}' not found.")
               exit(1)
 
           # 获取当天的日期
@@ -64,60 +64,67 @@ jobs:
               latest_basename, latest_file = valid_files[0]
 
               date_match = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', latest_basename)
-              old_year, old_month, old_day = date_match.groups()
-              old_date_dash_1 = f"{old_year}-{old_month}-{old_day}"
-              old_date_dash_2 = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
+              if date_match:
+                  old_year, old_month, old_day = date_match.groups()
+                  old_date_dash_1 = f"{old_year}-{old_month}-{old_day}"
+                  old_date_dash_2 = f"{old_year}-{int(old_month):02d}-{int(old_day):02d}"
 
-              if old_date_dash_1 == today_file_date_str or old_date_dash_2 == today_file_date_str:
-                  new_basename = latest_basename
-              else:
-                  new_basename = latest_basename.replace(old_date_dash_1, today_file_date_str, 1)
-                  if new_basename == latest_basename:
-                      new_basename = latest_basename.replace(old_date_dash_2, today_file_date_str, 1)
-                  
-                  new_file = os.path.join(posts_dir, new_basename)
+                  if old_date_dash_1 == today_file_date_str or old_date_dash_2 == today_file_date_str:
+                      new_basename = latest_basename
+                  else:
+                      new_basename = latest_basename.replace(old_date_dash_1, today_file_date_str, 1)
+                      if new_basename == latest_basename:
+                          new_basename = latest_basename.replace(old_date_dash_2, today_file_date_str, 1)
+                      
+                      new_file = os.path.join(posts_dir, new_basename)
 
-                  if not os.path.exists(new_file):
-                      with open(latest_file, 'r', encoding='utf-8') as f:
-                          content = f.read()
+                      if not os.path.exists(new_file):
+                          with open(latest_file, 'r', encoding='utf-8', errors='ignore') as f:
+                              content = f.read()
 
-                      new_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, content)
-                      new_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_full_chinese_date, new_content)
-                      new_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_chinese_date, new_content)
-                      new_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
-                      new_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
+                          new_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, content)
+                          new_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_full_chinese_date, new_content)
+                          new_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_chinese_date, new_content)
+                          new_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
+                          new_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
 
-                      def random_speed_replacer(match):
-                          suffix = match.group(2)
-                          val_num = current_random_speed.replace('M/S', '').replace('MB/s', '').replace('mbps', '')
-                          return f"{val_num}{suffix}"
+                          def random_speed_replacer(match):
+                              suffix = match.group(2)
+                              val_num = current_random_speed.replace('M/S', '').replace('MB/s', '').replace('mbps', '')
+                              return f"{val_num}{suffix}"
 
-                      new_content = re.sub(r'\b\d+(\.\d+)?([Mm][Bb]?/[Ss]|[Mm][Bb][Pp][Ss])\b', random_speed_replacer, new_content)
+                          new_content = re.sub(r'\b\d+(\.\d+)?([Mm][Bb]?/[Ss]|[Mm][Bb][Pp][Ss])\b', random_speed_replacer, new_content)
 
-                      with open(new_file, 'w', encoding='utf-8') as f:
-                          f.write(new_content)
+                          with open(new_file, 'w', encoding='utf-8') as f:
+                              f.write(new_content)
+                          print(f"Created new post file: {new_file}")
 
           # ----------------- 2. 自动更新根目录下的 README.md -----------------
           readme_path = "README.md"
           if os.path.exists(readme_path):
-              with open(readme_path, 'r', encoding='utf-8') as f:
+              with open(readme_path, 'r', encoding='utf-8', errors='ignore') as f:
                   readme_content = f.read()
               readme_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, readme_content)
               readme_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_full_chinese_date, readme_content)
               readme_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_chinese_date, readme_content)
               with open(readme_path, 'w', encoding='utf-8') as f:
                   f.write(readme_content)
+              print("Updated README.md")
 
           # ----------------- 3. 智能分页收集所有文章并生成 index 系列及分页导航 -----------------
           all_posts = []
+          # 重新扫描所有文件（包含刚生成的今天的文件）
+          all_files = glob.glob(os.path.join(posts_dir, "*.htm")) + glob.glob(os.path.join(posts_dir, "*.html")) + glob.glob(os.path.join(posts_dir, "*.md"))
+          
           for file in all_files:
               bname = os.path.basename(file)
               m = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', bname)
               if m:
                   y, mo, d = m.groups()
                   dt = datetime.date(int(y), int(mo), int(d))
-                  all_posts.append((dt, bname))
-          
+                  if (dt, bname) not in all_posts:
+                      all_posts.append((dt, bname))
+
           if new_basename:
               today_dt = datetime.date(int(today_year), int(today_month_no_zero), int(today_day_no_zero))
               if not any(p[1] == new_basename for p in all_posts):
@@ -128,6 +135,8 @@ jobs:
           page_size = 10
           total_posts = len(all_posts)
           total_pages = (total_posts + page_size - 1) // page_size
+          if total_pages == 0:
+              total_pages = 1
 
           base_index_path = os.path.join(posts_dir, "index.htm")
           if not os.path.exists(base_index_path):
@@ -135,12 +144,12 @@ jobs:
 
           template_html = ""
           if os.path.exists(base_index_path):
-              with open(base_index_path, 'r', encoding='utf-8') as f:
+              with open(base_index_path, 'r', encoding='utf-8', errors='ignore') as f:
                   template_html = f.read()
           
-          # 如果现有模板没有包含容器，则用你提供的完整 HTML 骨架初始化
+          # 如果模板没有包含容器，则注入默认骨架
           if 'xcblog-blog-list' not in template_html:
-              template_html = f'''<body data-page="category">
+              template_html = '''<body data-page="category">
     <div id="preloader"></div>
     <header class="header-one">
         <div id="sticker" class="header-menu-area header-area header-area-4">
@@ -193,22 +202,21 @@ jobs:
     </main>
 </body>'''
 
-          # 清理模板中旧的卡片和分页区域，为新内容腾出位置
+          # 清理旧卡片与旧分页
           if '<!-- XCBLOG_CARDS_START -->' in template_html:
               clean_template = re.sub(r'<!-- XCBLOG_CARDS_START -->.*?<!-- XCBLOG_PAGINATION_END -->', '%%PLACEHOLDER%%', template_html, flags=re.DOTALL)
           else:
-              # 如果还没有注释标签，尝试把 xcblog-blog-list 内部清空并插入占位符
-              clean_template = re.sub(r'(<div class="xcblog-blog-list">)(.*?)(</div>\s*</div>\s*</div>\s*</main>)', r'\1\n%%PLACEHOLDER%%\n\3', template_html, flags=re.DOTALL)
-              if '%%PLACEHOLDER%%' not in clean_template:
-                  # 兜底直接在 xcblog-blog-list 标签后插入
+              if '<div class="xcblog-blog-list">' in template_html:
                   clean_template = template_html.replace('<div class="xcblog-blog-list">', '<div class="xcblog-blog-list">\n%%PLACEHOLDER%%')
+              else:
+                  clean_template = template_html + '\n%%PLACEHOLDER%%'
 
           for page_idx in range(total_pages):
               start_idx = page_idx * page_size
               end_idx = start_idx + page_size
               page_posts = all_posts[start_idx:end_idx]
 
-              # 3.1 组装该页的 10 个卡片
+              # 3.1 组装卡片列表
               cards_html = "<!-- XCBLOG_CARDS_START -->\n"
               for dt, bname in page_posts:
                   y_str, mo_str, d_str = str(dt.year), str(dt.month), str(dt.day)
@@ -229,7 +237,7 @@ jobs:
                   cards_html += card_html
               cards_html += "<!-- XCBLOG_CARDS_END -->\n"
 
-              # 3.2 组装底部分页导航条 (1, 2, 3...)
+              # 3.2 组装底部分页导航条
               pagination_html = "<!-- XCBLOG_PAGINATION_START -->\n"
               pagination_html += '<div class="xcblog-pagination" style="text-align: center; margin: 30px 0;">\n'
               pagination_html += '  <ul class="pagination" style="display: inline-flex; list-style: none; padding: 0; gap: 8px; font-size: 16px;">\n'
@@ -248,10 +256,7 @@ jobs:
 
               # 3.3 写入网页
               full_content_block = cards_html + pagination_html
-              page_content = clean_template
-              
-              if '%%PLACEHOLDER%%' in page_content:
-                  page_content = page_content.replace('%%PLACEHOLDER%%', full_content_block)
+              page_content = clean_template.replace('%%PLACEHOLDER%%', full_content_block)
 
               if page_idx == 0:
                   current_filename = "index.htm"
@@ -266,8 +271,11 @@ jobs:
           print(f"Successfully generated {total_pages} pages inside xcblog-blog-list with pagination.")
           EOF
 
+      - name: 运行构建脚本
+        run: python auto_build.py
+
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update container alignment and pagination inside xcblog-blog-list"
+          commit_message: "chore: run build script for posts and pagination"
           branch: main
