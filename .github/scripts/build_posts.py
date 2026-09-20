@@ -83,6 +83,8 @@ if os.path.exists(readme_path):
     readme_content = re.sub(r'\b20\d{2}-\d{1,2}-\d{1,2}\b', today_file_date_str, readme_content)
     readme_content = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}[日号]', target_full_chinese_date, readme_content)
     readme_content = re.sub(r'\b\d{1,2}月\d{1,2}[日号]', target_chinese_date, readme_content)
+    readme_content = re.sub(r'\b20\d{2}/\d{1,2}/\d{1,2}\b', target_slash_date, new_content)
+    readme_content = re.sub(r'\b20\d{2}\d{2}\d{2}\b', target_compact_date, new_content)
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(readme_content)
     print("Updated README.md")
