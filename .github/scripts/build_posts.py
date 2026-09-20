@@ -189,18 +189,21 @@ for page_idx in range(total_pages):
     end_idx = start_idx + page_size
     page_posts = all_posts[start_idx:end_idx]
 
-    cards_html = "<!-- XCBLOG_CARDS_START -->\n"
+cards_html = "<!-- XCBLOG_CARDS_START -->\n"
     for dt, bname in page_posts:
         y_str, mo_str, d_str = str(dt.year), str(dt.month), str(dt.day)
         card_date_display = f"{mo_str}月{d_str}日"
+        
+        # 修正链接：使用相对于 free-nodes 目录的正确路径
+        # 如果你的文章在 free-nodes/xxx.htm，而列表页在 free-nodes/index.htm，链接直接写 bname 即可！
         card_html = f'''                            <div class="row content item xcblog-blog-item" data-date="{y_str}-{mo_str}-{d_str}">
                                 <div class="col-md-3">
-                                    <a href="/free-nodes/{bname}" class="xcblog-blog-url">
-                                        <img src="/uploads/20241122/c6a42b2aa92a2d63eaf82188b338cc1d.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接地址" style="width:100%;">
+                                    <a href="{bname}" class="xcblog-blog-url">
+                                        <img src="/uploads/20241122/c6a42b2aa92a2d63eaf82188b338cc1d.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接" style="width:100%;">
                                     </a>
                                 </div>
                                 <div class="col-md-9">
-                                    <a href="/free-nodes/{bname}" class="xcblog-blog-url">
+                                    <a href="{bname}" class="xcblog-blog-url">
                                     <h3>{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接地址</h3>
                                     </a>
                                     <p>这一次的节点更新覆盖了新加坡、加拿大、香港、欧洲、美国、日本、韩国等地区,最高速度可达{current_random_speed}。只需复制下方的Clash/v2ray订阅链接,在客户端添加后即可正常使用。</p>
