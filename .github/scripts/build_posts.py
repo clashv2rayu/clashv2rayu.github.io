@@ -189,13 +189,11 @@ for page_idx in range(total_pages):
     end_idx = start_idx + page_size
     page_posts = all_posts[start_idx:end_idx]
 
-cards_html = "<!-- XCBLOG_CARDS_START -->\n"
+    cards_html = "<!-- XCBLOG_CARDS_START -->\n"
     for dt, bname in page_posts:
         y_str, mo_str, d_str = str(dt.year), str(dt.month), str(dt.day)
         card_date_display = f"{mo_str}月{d_str}日"
         
-        # 修正链接：使用相对于 free-nodes 目录的正确路径
-        # 如果你的文章在 free-nodes/xxx.htm，而列表页在 free-nodes/index.htm，链接直接写 bname 即可！
         card_html = f'''                            <div class="row content item xcblog-blog-item" data-date="{y_str}-{mo_str}-{d_str}">
                                 <div class="col-md-3">
                                     <a href="{bname}" class="xcblog-blog-url">
