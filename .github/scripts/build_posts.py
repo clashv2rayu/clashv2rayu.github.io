@@ -199,7 +199,7 @@ for page_idx in range(total_pages):
         card_html = f'''                            <div class="row content item xcblog-blog-item" data-date="{y_str}-{mo_str}-{d_str}">
                                 <div class="col-md-3">
                                     <a href="{bname}" class="xcblog-blog-url">
-                                        <img src="/uploads/20241122/c6a42b2aa92a2d63eaf82188b338cc1d.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接" style="width:100%;">
+                                        <img src="/uploads/20250105/fe6507b610d66b34cf8a0ec6dfa6482f.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接" style="width:100%;">
                                     </a>
                                 </div>
                                 <div class="col-md-9">
@@ -276,7 +276,7 @@ if root_index_path:
         card_html = f'''                            <div class="row content item xcblog-blog-item" data-date="{y_str}-{mo_str}-{d_str}">
                                 <div class="col-md-3">
                                     <a href="{sub_bname}" class="xcblog-blog-url">
-                                        <img src="/uploads/20241122/c6a42b2aa92a2d63eaf82188b338cc1d.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接" style="width:100%;">
+                                        <img src="/uploads/20250105/fe6507b610d66b34cf8a0ec6dfa6482f.webp" alt="{card_date_display}→{current_random_speed}|{y_str}年最新免费节点clashnode订阅链接" style="width:100%;">
                                     </a>
                                 </div>
                                 <div class="col-md-9">
